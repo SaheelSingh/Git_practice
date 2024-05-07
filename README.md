@@ -1,1 +1,1 @@
-# Working with the git and github first time.
+# Working with the git and github for first time.
